@@ -7,7 +7,6 @@
   <groupId>com.amazon.android</groupId>
   <artifactId>aps-admob-adapter</artifactId>
   <version>1.5.0</version>
-  <packaging>aar</packaging>
   <name>aps-admob-adapter</name>
   <description>The Amazon Publisher Services SDK helps publishers increase revenue by enabling incremental bidding alongside your waterfall</description>
   <url>https://aps.amazon.com/aps/solutions-for-mobile-app-developers</url>
