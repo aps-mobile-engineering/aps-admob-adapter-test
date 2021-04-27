@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+             http://maven.apache.org/maven-v4_0_0.xsd">
+  <groupId>com.amazon.android</groupId>
+  <artifactId>aps-admob-adapter</artifactId>
+  <version>1.5.0</version>
+  <packaging>aar</packaging>
+  <name>aps-admob-adapter</name>
+  <description>The Amazon Publisher Services SDK helps publishers increase revenue by enabling incremental bidding alongside your waterfall</description>
+  <url>https://aps.amazon.com/aps/solutions-for-mobile-app-developers</url>
+
+  <licenses>
+    <license>
+      <name>APS Mobile Engineering License</name>
+      <url>https://mdtb-sdk-packages.s3-us-west-2.amazonaws.com/LICENSE.txt</url>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>aps-mobile-engineering</id>
+      <name>Amazon Publisher Services Mobile Engineering</name>
+      <email>aps-mobile-engineering@amazon.com</email>
+      <organization>Amazon Publisher Services</organization>
+      <organizationUrl>https://aps.amazon.com/aps/index.html</organizationUrl>
+    </developer>
+  </developers>
+
+</project>
